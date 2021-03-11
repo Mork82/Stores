@@ -55,6 +55,7 @@ class StoreAdapter(
             notifyItemChanged(index)
         }
     }
+
     fun delete(storeEntity: StoreEntity) {
         val index = stores.indexOf(storeEntity)
         if (index != -1) {
@@ -62,8 +63,6 @@ class StoreAdapter(
             notifyItemRemoved(index)
         }
     }
-
-
 
     inner class ViewHolder(view: View) : RecyclerView.ViewHolder(view) {
         val binding = ItemStoreBinding.bind(view)
