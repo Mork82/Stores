@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CodigOnline</string>
+
+    <string name="forgot_password">¿Olvido su contrseña?</string>
+    <string name="register">Registro</string>
+    <string name="log_in">Iniciar Sesion</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_user">Usuario</string>
+    <string name="title_activity_register">RegisterActivity</string>
+</resources>

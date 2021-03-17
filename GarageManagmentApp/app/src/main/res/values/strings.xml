@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Garage Managment App</string>
+    <string name="et_singup">¿No estas registrado?</string>
+    <string name="btn_sing_up">Registrate</string>
+    <string name="log_in">Iniciar Sesion</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_user">Usuario</string>
+    <string name="helper_user">Debes introducir el usuario</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="repetir_contrasenya">Repetir Contraseña</string>
+    <string name="contrasenya">Contraseña</string>
+    <string name="phone">Telefono</string>
+    <string name="empresa">Empresa</string>
+    <string name="email">E-Mail</string>
+    <string name="name">Nombre</string>
+    <string name="recover">Recuperar Contraseña</string>
+</resources>
